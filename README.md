@@ -44,4 +44,4 @@ Responsive website for managing cleaning service bookings.
 
 📍 Townsville, QLD, Australia
 
-🔗 LinkedIn: Add your LinkedIn URL here
+🔗 LinkedIn: [linkedin.com/in/johns-bijoy01](https://www.linkedin.com/in/johns-bijoy01/)
