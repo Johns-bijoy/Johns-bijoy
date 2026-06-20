@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Johns Bijoy 👋
 
-<!--
-**Johns-bijoy/Johns-bijoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bachelor of Information Technology Graduate from James Cook University
 
-Here are some ideas to get you started:
+💻 Passionate about:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* IT Support
+* Cybersecurity
+* Networking
+* Cloud Computing
+* System Administration
+
+## Featured Projects
+
+### 🔧 Setup Wizard Creator
+
+Developed during my internship to create interactive onboarding walkthroughs for web applications.
+
+### 🍽️ Food Waste Reduction Tracker
+
+Android application designed to help users reduce household food waste.
+
+### 🧹 MyClean
+
+Web-based cleaning service management system built using PHP and MySQL.
+
+### 🌐 Cleaning Service Website
+
+Responsive website for managing cleaning service bookings.
+
+## Technical Skills
+
+* Windows Administration
+* Active Directory
+* Networking
+* Python
+* Java
+* PHP
+* SQL
+* AWS
+* Git & GitHub
+
+## Contact
+
+📍 Townsville, QLD, Australia
+
+🔗 LinkedIn: Add your LinkedIn URL here
