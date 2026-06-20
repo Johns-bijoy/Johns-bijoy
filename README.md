@@ -1,8 +1,8 @@
 # Hi, I'm Johns Bijoy 👋
 
-🎓 Bachelor of Information Technology Graduate from James Cook University
+ Bachelor of Information Technology Graduate from James Cook University
 
-💻 Passionate about:
+ Passionate about:
 
 * IT Support
 * Cybersecurity
@@ -12,19 +12,19 @@
 
 ## Featured Projects
 
-### 🔧 Setup Wizard Creator
+###  Setup Wizard Creator
 
 Developed during my internship to create interactive onboarding walkthroughs for web applications.
 
-### 🍽️ Food Waste Reduction Tracker
+###  Food Waste Reduction Tracker
 
 Android application designed to help users reduce household food waste.
 
-### 🧹 MyClean
+###  MyClean
 
 Web-based cleaning service management system built using PHP and MySQL.
 
-### 🌐 Cleaning Service Website
+###  Cleaning Service Website
 
 Responsive website for managing cleaning service bookings.
 
